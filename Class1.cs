@@ -6,7 +6,7 @@ namespace Test_Shared
     {
         public string Test()
         {
-            return "Test 4";
+            return "Test 5";
         }
     }
 }
