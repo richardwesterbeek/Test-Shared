@@ -6,7 +6,7 @@ namespace Test_Shared
     {
         public string Test()
         {
-            return "Test 5";
+            return "Test Sub Module Feature";
         }
     }
 }
